@@ -6,6 +6,9 @@ Forked off [mesosphere/aws-cli](https://github.com/mesosphere/aws-cli).
 Original work Copyright 2016-2017 Mesosphere, Inc.
 Updated by yours truly.
 
+## Get it here
+[Dockerhub registry](https://hub.docker.com/r/gbvanrenswoude/aws-cli/)
+
 ## Build
 
 ```
